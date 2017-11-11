@@ -1,2 +1,2 @@
 # golang-helloworld  
-golang print "Hello World!".
+print "Hello World!".
